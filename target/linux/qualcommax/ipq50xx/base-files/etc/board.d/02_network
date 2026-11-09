@@ -17,6 +17,7 @@ ipq50xx_setup_interfaces()
 		ucidef_set_interfaces_lan_wan "lan1 lan2" "wan"
 		;;
 	cmcc,rax3000q|\
+	cmcc,mr3000d-ci|\
 	cmcc,pz-l8|\
 	xiaomi,cr880x-m79-v1|\
 	xiaomi,cr880x-m81)
